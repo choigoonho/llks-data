@@ -1,4 +1,5 @@
 [
+  { "date": 1402531200 , "price": 1.65 , "volume": 1259040  },
   { "date": 1402444800 , "price": 1.72 , "volume": 927224   },
   { "date": 1402358400 , "price": 1.69 , "volume": 237335   },
   { "date": 1402272000 , "price": 1.73 , "volume": 357465   },
@@ -177,6 +178,5 @@
   { "date": 1384473600 , "price": 1.36 , "volume": 88       },
   { "date": 1384387200 , "price": 1.4  , "volume": 76       },
   { "date": 1384214400 , "price": 1.43 , "volume": 49       },
-  { "date": 1384128000 , "price": 1.5  , "volume": 16       },
-  { "date": 1384041600 , "price": 1.5  , "volume": 2        }
+  { "date": 1384128000 , "price": 1.5  , "volume": 16       }
 ]
